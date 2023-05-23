@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# R Project(s)
+*.Rproj
+
+# Mac stuff
+.DS_Store
