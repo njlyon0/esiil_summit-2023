@@ -59,4 +59,4 @@ rsconnect/
 *.pdf
 
 # Quarto supporting docs
-summit_day-1_files/
+*_files/
