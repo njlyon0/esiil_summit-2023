@@ -53,3 +53,7 @@ rsconnect/
 
 # Mac stuff
 .DS_Store
+
+# File types
+*.html
+*.pdf
